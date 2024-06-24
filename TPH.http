@@ -1,0 +1,6 @@
+@TPH_HostAddress = http://localhost:5103
+
+GET {{TPH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
